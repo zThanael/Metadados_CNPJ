@@ -1,0 +1,7 @@
+CNPJs do Brasil: https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj
+Clientes Ficticios: https://www.kaggle.com/datasets/syfonseca/dados-abertos-ancine 
+API para obter os dados: https://www.cnpj.ws/
+API CNAEs: https://servicodados.ibge.gov.br/api/docs/CNAE?versao=2
+Naturezas Juridicas: https://compras.dados.gov.br/docs/fornecedores/v1/naturezas_juridicas.html
+Porte de Empresas: https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2019/porte-de-empresas-esclareca-todas-as-suas-duvidas
+DER: https://dbdiagram.io/
